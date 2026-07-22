@@ -2,16 +2,16 @@
 
 A growing collection of unofficial custom pets for the Codex desktop app.
 
-## Available pets
+## Meet the pets
 
-| Pet | Preview | Install package |
-| --- | --- | --- |
-| Zoro | [Preview](pets/zoro-santoryu/zoro-santoryu-contact-sheet.png) | [zoro-santoryu](pets/zoro-santoryu/) |
-| Brook | [Preview](pets/brook-soul-king/brook-soul-king-contact-sheet.png) | [brook-soul-king](pets/brook-soul-king/) |
+| Zoro | Brook |
+| --- | --- |
+| [<img src="pets/zoro-santoryu/zoro-santoryu-contact-sheet.png" alt="Zoro pet preview" width="360">](pets/zoro-santoryu/) | [<img src="pets/brook-soul-king/brook-soul-king-contact-sheet.png" alt="Brook pet preview" width="360">](pets/brook-soul-king/) |
+| [Open Zoro package](pets/zoro-santoryu/) | [Open Brook package](pets/brook-soul-king/) |
 
 ## Install
 
-1. Open the selected pet folder above.
+1. Open the selected pet package above.
 2. Download its WebP spritesheet and `pet.json`.
 3. Create `~/.codex/pets/<pet-id>/`.
 4. Put the downloaded files in the folder, preserving their filenames.
