@@ -1,6 +1,6 @@
 # Codex Pets 4 Fun
 
-A growing collection of unofficial custom pets for the Codex desktop app.
+A growing collection of unofficial one piece custom pets for the Codex desktop app.
 
 ## Meet the pets
 
