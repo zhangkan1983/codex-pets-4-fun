@@ -1,22 +1,30 @@
-# Zoro Codex Pet
+# Codex Pets 4 Fun
 
-An unofficial, fan-made custom pet for the Codex desktop app, assembled from supplied Zoro pose materials.
+A growing collection of unofficial custom pets for the Codex desktop app.
 
-![Preview](zoro-santoryu-contact-sheet.png)
+## Available pets
+
+| Pet | Preview | Install package |
+| --- | --- | --- |
+| Zoro | [Preview](pets/zoro-santoryu/zoro-santoryu-contact-sheet.png) | [zoro-santoryu](pets/zoro-santoryu/) |
+| Brook | [Preview](pets/brook-soul-king/brook-soul-king-contact-sheet.png) | [brook-soul-king](pets/brook-soul-king/) |
 
 ## Install
 
-1. Download `zoro-santoryu-spritesheet.webp` and `pet.json`.
-2. Create the directory `~/.codex/pets/zoro-santoryu/`.
-3. Put both downloaded files in that directory, renaming the WebP file to `spritesheet.webp`.
-4. In Codex, open **Settings > Pets**, choose **Refresh**, then select **Zoro**.
+1. Open the selected pet folder above.
+2. Download its WebP spritesheet and `pet.json`.
+3. Create `~/.codex/pets/<pet-id>/`.
+4. Put the downloaded files in the folder, preserving their filenames.
+5. In Codex, open **Settings > Pets**, choose **Refresh**, then select your pet.
 
-## Package
+## Add more
 
-- `zoro-santoryu-spritesheet.webp` — transparent 1536 x 1872 WebP animation atlas.
-- `pet.json` — Codex pet metadata pointing to `spritesheet.webp`.
-- `zoro-santoryu-contact-sheet.png` — contact sheet of the nine animation states.
+Each new pet lives in its own directory under `pets/`, containing:
+
+- `pet.json`
+- a transparent WebP spritesheet
+- a preview image
 
 ## Note
 
-This is an unofficial fan project for personal use. *One Piece* and Roronoa Zoro are trademarks and copyrighted properties of their respective rightsholders. This repository is not affiliated with or endorsed by those rightsholders, and it grants no rights to the underlying character IP.
+These are unofficial fan projects for personal use. Any depicted third-party characters are trademarks and copyrighted properties of their respective rightsholders. This repository is not affiliated with or endorsed by those rightsholders, and it grants no rights to the underlying character IP.
