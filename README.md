@@ -4,10 +4,10 @@ A growing collection of unofficial one piece custom pets for the Codex desktop a
 
 ## Meet the pets
 
-| Zoro | Brook |
-| --- | --- |
-| [<img src="pets/zoro-santoryu/zoro-santoryu-contact-sheet.png" alt="Zoro pet preview" width="360">](pets/zoro-santoryu/) | [<img src="pets/brook-soul-king/brook-soul-king-contact-sheet.png" alt="Brook pet preview" width="360">](pets/brook-soul-king/) |
-| [Open Zoro package](pets/zoro-santoryu/) | [Open Brook package](pets/brook-soul-king/) |
+| Zoro | Brook | Sanji |
+| --- | --- | --- |
+| [<img src="pets/zoro-santoryu/zoro-santoryu-contact-sheet.png" alt="Zoro pet preview" width="300">](pets/zoro-santoryu/) | [<img src="pets/brook-soul-king/brook-soul-king-contact-sheet.png" alt="Brook pet preview" width="300">](pets/brook-soul-king/) | [<img src="pets/sanji-black-leg/sanji-black-leg-contact-sheet.png" alt="Sanji pet preview" width="300">](pets/sanji-black-leg/) |
+| [Open Zoro package](pets/zoro-santoryu/) | [Open Brook package](pets/brook-soul-king/) | [Open Sanji package](pets/sanji-black-leg/) |
 
 ## Install
 
