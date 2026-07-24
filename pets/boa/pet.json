@@ -1,0 +1,7 @@
+{
+  "id": "boa",
+  "displayName": "Boa",
+  "description": "A chibi Boa custom pet.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "boa-spritesheet.webp"
+}
