@@ -4,10 +4,15 @@ A growing collection of unofficial one piece custom pets for the Codex desktop a
 
 ## Meet the pets
 
-| Zoro | Brook | Sanji | Nami | Chopper |
-| --- | --- | --- | --- | --- |
-| [<img src="pets/zoro-santoryu/zoro-santoryu-contact-sheet.png" alt="Zoro pet preview" width="190">](pets/zoro-santoryu/) | [<img src="pets/brook-soul-king/brook-soul-king-contact-sheet.png" alt="Brook pet preview" width="190">](pets/brook-soul-king/) | [<img src="pets/sanji-black-leg/sanji-black-leg-contact-sheet.png" alt="Sanji pet preview" width="190">](pets/sanji-black-leg/) | [<img src="pets/nami-navigator/nami-navigator-contact-sheet.png" alt="Nami pet preview" width="190">](pets/nami-navigator/) | [<img src="pets/chopper-doctor/chopper-doctor-contact-sheet.png" alt="Chopper pet preview" width="190">](pets/chopper-doctor/) |
-| [Open Zoro package](pets/zoro-santoryu/) | [Open Brook package](pets/brook-soul-king/) | [Open Sanji package](pets/sanji-black-leg/) | [Open Nami package](pets/nami-navigator/) | [Open Chopper package](pets/chopper-doctor/) |
+| Zoro | Brook | Sanji | Nami |
+| --- | --- | --- | --- |
+| [<img src="pets/zoro-santoryu/zoro-santoryu-contact-sheet.png" alt="Zoro pet preview" width="220">](pets/zoro-santoryu/) | [<img src="pets/brook-soul-king/brook-soul-king-contact-sheet.png" alt="Brook pet preview" width="220">](pets/brook-soul-king/) | [<img src="pets/sanji-black-leg/sanji-black-leg-contact-sheet.png" alt="Sanji pet preview" width="220">](pets/sanji-black-leg/) | [<img src="pets/nami-navigator/nami-navigator-contact-sheet.png" alt="Nami pet preview" width="220">](pets/nami-navigator/) |
+| [Open Zoro package](pets/zoro-santoryu/) | [Open Brook package](pets/brook-soul-king/) | [Open Sanji package](pets/sanji-black-leg/) | [Open Nami package](pets/nami-navigator/) |
+
+| Chopper | Robin |
+| --- | --- |
+| [<img src="pets/chopper-doctor/chopper-doctor-contact-sheet.png" alt="Chopper pet preview" width="220">](pets/chopper-doctor/) | [<img src="pets/robin-archaeologist/robin-archaeologist-contact-sheet.png" alt="Robin pet preview" width="220">](pets/robin-archaeologist/) |
+| [Open Chopper package](pets/chopper-doctor/) | [Open Robin package](pets/robin-archaeologist/) |
 
 ## Install
 
